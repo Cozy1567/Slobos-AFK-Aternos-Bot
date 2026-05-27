@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "slobtest1.aternos.me",
-    "port": 27586,
+    "ip": "cozyplayz15.aternos.me:25790",
+    "port": 25790,
     "version": "",
     "try-creative": false
   },
