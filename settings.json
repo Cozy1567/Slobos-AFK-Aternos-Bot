@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "cozyplayz15.aternos.me:25790",
+    "ip": "cozyplayz15.aternos.me",
     "port": 25790,
     "version": "",
     "try-creative": false
